@@ -36,7 +36,7 @@ To complete the exercises in this repository, please make sure that you meet the
 - [Exercise 3.2 - Generate new Sample Data with SAP Build and Joule](exercises/ex0.2/)
 - [Exercise 3.3 - Release Changes to GitHub](exercises/ex0.2/)
 
-#### Develop your your low-code application
+#### Develop your low-code application
 - [Exercise 4.1 - Setup SAP Content Agent Service](exercises/ex0.2/)
 - [Exercise 4.2 - Find application in mobile services](exercises/ex0.2/)
 - [Exercise 4.3 - Create and send Transport Request in SAP Content Agent Service UI](exercises/ex0.2/)
