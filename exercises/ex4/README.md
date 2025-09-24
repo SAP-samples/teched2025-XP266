@@ -2,7 +2,7 @@
 
 In this exercise, you will create a new transport request using **SAP Content Agent Service** and **SAP Build** together with **SAP Mobile Services**.
 
-## Exercise 4.0 - Create a new SAP Build Mobile Project
+## Exercise 4.0 - Create a new SAP Build Mobile Project in SAP Build
 
 1. In SAP BTP cockpit, navigate to your development SAP BTP subaccount named `XP266_DEV`. 
 2. Go to **Services** > **Instances and Subscription** and open **SAP Build Code** in the Subscriptions area.
