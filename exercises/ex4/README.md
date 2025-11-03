@@ -64,7 +64,7 @@ In SAP Content Agent Service, you will now prepare a transport request containin
 2. Select ``XP266DEVMS`` and ``XP266DEVMSRES`` of Type Mobile application.
         <br>![](../ex4/images/cas_transportrequest_content.png)
 3. Go to **Step 2**.
-4. As Export Mode leave SAP Cloud Transport Management.
+4. As Export Mode leave ``SAP Cloud Transport Management`` & ``Create a New Transport Request``.
 5. Choose ``DEV`` as your Source Node.
 6. Enter a description e.g. ``My low-code application``.
 7. Continue with **Step 3** and  **Step 4** to trigger **export** to SAP Cloud Transport Management Service.
