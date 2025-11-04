@@ -30,9 +30,9 @@ At the end, you will access the SAP BTP cockpit and SAP BTP accounts that have b
 
 ## Exercise 0.2 - Login to your BTP subaccount
 
-1. Navigate to the [SAP Business Technology Platform - Cockpit](https://account.hana.ondemand.com/#/home/welcome)
+1. Navigate to the [SAP Business Technology Platform - Cockpit](https://emea.cockpit.btp.cloud.sap/cockpit/?idp=tdct3ched1.accounts.ondemand.com#/globalaccount/4c772782-0751-42ee-93c3-897452fdcb63/)
 
-2. Click "Sign In" and enter the for this session provided user credentials
+2. Click ``Sign In`` and enter the for this session provided user credentials
 
 3. After the BPT Cockpit has been loaded, you should see following account structure:
 
